@@ -1,5 +1,5 @@
 # Users-App-with-Intersection-Observer
-Application developed in React.js that consumes the randomuser.me public API to display a list of users with Infinite Scroll, Skeleton Loader and Empty State, focused on good architecture, UX and separation of responsibilities practices.  This project is part of my preparation as a React web developer
+Application developed in React.js that consumes the randomuser.me public API to display a list of users with Infinite Scroll, Skeleton Loader, and Empty State, focused on good architecture, UX, and separation of responsibilities. This project is part of my preparation as a React web developer
 
 
 ## 🚀 Features
@@ -89,7 +89,7 @@ Example: https://randomuser.me/api?results=50&page=1
 ▶️ Installation and execution
 
 # Clone the repository
-git clone <repository-url>
+git clone <https://github.com/DelPieroj10/Users-App-with-Intersection-Observer.git>
 
 # Install dependencies
 npm install
