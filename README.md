@@ -1,3 +1,16 @@
+<p align="center">
+  <img src="./assets/Screenshot-top.png" width="700" />
+</p>
+
+## 📸 Screenshots
+
+### Skeleton Loader
+<img src="./assets/Screenshot 2 – Skeleton_loading.png" width="600" />
+
+### Infinite Scroll
+<img src="./assets/Screenshot 3 – Infinite_Scroll.png" width="600" />
+
+
 # Users-App-with-Intersection-Observer
 Application developed in React.js that consumes the randomuser.me public API to display a list of users with Infinite Scroll, Skeleton Loader, and Empty State, focused on good architecture, UX, and separation of responsibilities. This project is part of my preparation as a React web developer
 
