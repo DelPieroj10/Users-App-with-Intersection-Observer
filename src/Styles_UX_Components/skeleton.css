@@ -1,0 +1,30 @@
+.skeleton {
+  animation: pulse 1.5s infinite ease-in-out;
+}
+
+.avatar-skeleton {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  background: #e0e0e0;
+}
+
+.line {
+  height: 12px;
+  background: #e0e0e0;
+  margin-top: 8px;
+}
+
+.short {
+  width: 60%;
+}
+
+.long {
+  width: 90%;
+}
+
+@keyframes pulse {
+  0% { opacity: 1; }
+  50% { opacity: .4; }
+  100% { opacity: 1; }
+}
