@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="./assets/Screenshot-top.png" width="700" />
+  <img src="./assets/screenshot-top.png" width="700" />
 </p>
 
 ## 📸 Screenshots
 
 ### Skeleton Loader
-<img src="./assets/Screenshot 2 – Skeleton_loading.png" width="600" />
+<img src="./assets/screenshot-skeleton.png" width="600" />
 
 ### Infinite Scroll
-<img src="./assets/Screenshot 3 – Infinite_Scroll.png" width="600" />
+<img src="./assets/screenshot-infinite-scroll.png" width="600" />
 
 
 # Users-App-with-Intersection-Observer
