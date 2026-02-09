@@ -76,7 +76,7 @@ This avoids duplicate states and possible inconsistencies.
 
 🦴 Skeleton Loader
 
-It is displayed only during initial loading, improving speed perception and avoiding sudden changes in the interface.
+It is displayed only during initial loading, improving perceived speed and avoiding sudden changes to the interface.
 On subsequent loads (Infinite Scroll), a lightweight loader is used to maintain visual continuity.
 
 📭 Empty State
@@ -86,7 +86,7 @@ Renders automatically when:
 ▫ Loading has finished
 
 ▫ The API returns an empty array
-Provide clear feedback to the user without blaming them or leaving the screen empty.
+To provide clear feedback to the user without blaming them or leaving the screen empty.
 
 
 🌐 API used
@@ -120,6 +120,6 @@ npm run dev
 👤 Author
 
 Developed by Jean Piero Parra
-  ▫ Aspiring React Developer (Trainee / Junior)
-  ▫ Focus on UX, good practices, and maintainable code
+- Aspiring React Developer (Trainee / Junior)
+- Focus on UX, good practices, and maintainable code
 
